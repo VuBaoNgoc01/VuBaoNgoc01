@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @VuBaoNgoc01
 - 👀 I’m interested in Frontend Web Developer
-- 🌱 I’m currently learning "ĐH Mỏ - Địa chất / Công nghệ phần mềm"
 - 📫 How to reach me : 
 - Gmail: vbngoc211201@gmail.com
 - facebook: https://www.facebook.com/VuBaoNgoc21
